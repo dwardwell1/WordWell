@@ -1,3 +1,16 @@
+# WordWell, a wordle clone
+
+A fun project playing with wordle, adding some personal flair to it
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
