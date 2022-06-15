@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 body {
   text-align: center;
   font-size: 1em;
@@ -5,7 +7,8 @@ body {
   margin: 0;
 }
 h1 {
-  font-size: 1.2em;
+  font-family: 'Indie Flower';
+  font-size: 2.5em;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
   margin: 0 0 30px 0;
