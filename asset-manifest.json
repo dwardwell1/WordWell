@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WordWell/static/css/main.eebf1029.css",
+    "main.js": "/WordWell/static/js/main.23b70a15.js",
+    "index.html": "/WordWell/index.html",
+    "main.eebf1029.css.map": "/WordWell/static/css/main.eebf1029.css.map",
+    "main.23b70a15.js.map": "/WordWell/static/js/main.23b70a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebf1029.css",
+    "static/js/main.23b70a15.js"
+  ]
+}
