@@ -1,4 +1,4 @@
-# WordWell, a wordle clone
+# [WordWell](https://dwardwell1.github.io/WordWell/), a wordle clone 
 
 A fun project playing with wordle, adding some personal flair to it
 
